@@ -1,2 +1,2 @@
 # codes-
-here we inly deploy our projects
+here we only deploy our projects
